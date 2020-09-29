@@ -1,4 +1,7 @@
 ﻿# OOP244-NABD-Notes
+## Active Session
+[Join The session](https://connect.rna2.blindsidenetworks.com/invite/to?c=OKzf0YRYC5TBvzJCExmbkNHuZHle09a5FxG2w0kM9dQ&m=440fa653b18944279ffc80c21eb80572f0438b2d&t=1601382502655&u=senecacollege)
+
 
 ## Setting up your computers for OOP244
 
