@@ -2,7 +2,7 @@
 ## Active Session
 Use your real Seneca Name (what is on your student card) to join, otherwise you will be kicked out<br />
 [Join The session](https://connect.rna2.blindsidenetworks.com/invite/to?c=OKzf0YRYC5TBvzJCExmbkNHuZHle09a5FxG2w0kM9dQ&m=440fa653b18944279ffc80c21eb80572f0438b2d&t=1601382502655&u=senecacollege)
-
+## Previous Sessions
 
 ## Setting up your computers for OOP244
 
