@@ -6,9 +6,15 @@ int main() {
    String str;
    str.init();
    str.set("This is a test");
-   str.display() << endl;
+   str.display();
+   cout << endl;
    str.set("Another test, but longer");
-   str.display() << endl;
+   str.display();
+   cout << endl;
+
+
+
+
    str.deallocate();
    return 0;
 }
