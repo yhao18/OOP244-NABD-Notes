@@ -23,6 +23,7 @@ Use your real Seneca Name (what is on your student card) to join, otherwise you 
 - [Sep-21 LAB](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1600702185864/capture/)
 - [Sep-23 , Types Ref, Overloading, DMA](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1600881726524/capture/)
 - [Sep-28 , LAB Types Ref, Overloading, DMA](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1601307384450/capture/)
+- [Sep 30 ,Member Functions and Privacy](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1601486531838/capture/)
 
 ## Fardad's Schedule
 | Period | Start-Stop  | Mon            | Tue            | Wed        | Thu        | Fri |
