@@ -1,7 +1,7 @@
 ﻿# OOP244-NABD-Notes
 ## Active Session
-Use your real Seneca Name (what is on your student card) to join, otherwise you will be kicked out<br />
-[Join The session](https://connect.rna2.blindsidenetworks.com/invite/to?c=RzeU-POMoX6eqHeRO5bXVdxl55t3bZUkiEULLw8DrHI&m=ebea1892aa61c2668145b757a836054a5ac70d69&t=1601486531792&u=senecacollege)
+Join the session as a guest and **use your real Seneca Name** (what is on your student card), otherwise you will be kicked out<br />
+[Join The session -Oct 01, 8:00 -> 9:45](https://connect.rna2.blindsidenetworks.com/invite/to?c=qNJc1baBZqDRfxSzelDdW15jRpAYsNea6Thd3sUCntM&m=839c746756d8e623bb4d82439687c61b8b32a441&t=1601552871616&u=senecacollege)
 ## Previous Sessions
 ### NAA
 - [Sep-14 Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1600087944853/capture/)
@@ -23,6 +23,7 @@ Use your real Seneca Name (what is on your student card) to join, otherwise you 
 - [Sep-21 LAB](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1600702185864/capture/)
 - [Sep-23 , Types Ref, Overloading, DMA](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1600881726524/capture/)
 - [Sep-28 , LAB Types Ref, Overloading, DMA](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1601307384450/capture/)
+- [Sep 30 ,Member Functions and Privacy](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1601486531838/capture/)
 
 ## Fardad's Schedule
 | Period | Start-Stop  | Mon            | Tue            | Wed        | Thu        | Fri |
