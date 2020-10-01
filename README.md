@@ -1,6 +1,6 @@
 ﻿# OOP244-NABD-Notes
 ## Active Session
-Use your real Seneca Name (what is on your student card) to join, otherwise you will be kicked out<br />
+Join the session as a guest and **use your real Seneca Name** (what is on your student card) to join, otherwise you will be kicked out<br />
 [Join The session -Oct 01, 8:00 -> 9:45](https://connect.rna2.blindsidenetworks.com/invite/to?c=qNJc1baBZqDRfxSzelDdW15jRpAYsNea6Thd3sUCntM&m=839c746756d8e623bb4d82439687c61b8b32a441&t=1601552871616&u=senecacollege)
 ## Previous Sessions
 ### NAA
