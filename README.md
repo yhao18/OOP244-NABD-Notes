@@ -1,7 +1,7 @@
 ﻿# OOP244-NABD-Notes
 ## Active Session
 Use your real Seneca Name (what is on your student card) to join, otherwise you will be kicked out<br />
-[Join The session](https://connect.rna2.blindsidenetworks.com/invite/to?c=RzeU-POMoX6eqHeRO5bXVdxl55t3bZUkiEULLw8DrHI&m=ebea1892aa61c2668145b757a836054a5ac70d69&t=1601486531792&u=senecacollege)
+[Join The session -Oct 01, 8:00 -> 9:45](https://connect.rna2.blindsidenetworks.com/invite/to?c=qNJc1baBZqDRfxSzelDdW15jRpAYsNea6Thd3sUCntM&m=839c746756d8e623bb4d82439687c61b8b32a441&t=1601552871616&u=senecacollege)
 ## Previous Sessions
 ### NAA
 - [Sep-14 Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1600087944853/capture/)
