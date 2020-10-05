@@ -17,7 +17,7 @@ Join the session as a guest and **use your real Seneca Name** (what is on your s
 - [Sep-22 LAB](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1600778638561/capture/)
 - [Sep-24 , Types Ref, Overloading, DMA](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1600958558768/capture/)
 - [Sep-29 DMA lab](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1601382502691/capture/)
-- [Oct 1 - Member Functions and Privacy](Oct 1 - Member Functions and Privacy)
+- [Oct 1 - Member Functions and Privacy](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1601563179577/capture/)
 
 ### NDD
 - [Sep-14 Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1600097934447/capture/)
