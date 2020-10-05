@@ -1,4 +1,45 @@
 ﻿# OOP244-NABD-Notes
+## Active Session
+Join the session as a guest and **use your real Seneca Name** (what is on your student card), otherwise you will be kicked out<br />
+[Join The session -OOP244 NBB Oct 1 - Member Functions and Privacy](https://connect.rna2.blindsidenetworks.com/invite/to?c=7sNEUx2d1R-3G2hORkT0JevxlWEl3bBgUz2sAHNLmeY&m=440fa653b18944279ffc80c21eb80572f0438b2d&t=1601563179538&u=senecacollege)
+## Previous Sessions
+### NAA
+- [Sep-14 Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1600087944853/capture/)
+- [Sep-17 Week one Namespaces, OO, modules](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1600342892095/capture/)
+- [Sep-21 LAB](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1600689537024/capture/)
+- [Sep-24 Types, Ref, Overloading, DMA](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1600948017766/capture/)
+- [Sep-28 DMA lab](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1601294475431/capture/)
+
+### NBB
+- [Sep 15 - Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1600174133417/capture/)
+- [Sep-17 Week one Namespaces, OO, modules](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1600353332566/capture/)
+- [Sep-22 LAB](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1600778638561/capture/)
+- [Sep-24 , Types Ref, Overloading, DMA](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1600958558768/capture/)
+- [Sep-29 DMA lab](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1601382502691/capture/)
+
+### NDD
+- [Sep-14 Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1600097934447/capture/)
+- [Sep-14 Week one OO, modules](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1600276994180/capture/)
+- [Sep-21 LAB](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1600702185864/capture/)
+- [Sep-23 , Types Ref, Overloading, DMA](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1600881726524/capture/)
+- [Sep-28 , LAB Types Ref, Overloading, DMA](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1601307384450/capture/)
+- [Sep 30 ,Member Functions and Privacy](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1601486531838/capture/)
+
+## Fardad's Schedule
+| Period | Start-Stop  | Mon            | Tue            | Wed        | Thu        | Fri |
+|--------|-------------|----------------|----------------|------------|------------|-----|
+| 1      | 8:00-8:50   | OOP244 NAA Lab |                |            | OOP244 NAA |     |
+| 2      | 8:55-9:45   | OOP244 NAA Lab | OOP244 NBB Lab |            | OOP244 NAA |     |
+| 3      | 9:50-10:40  |                | OOP244 NBB Lab |            |            |     |
+| 4      | 10:45-11:35 |                |                |            | OOP244 NBB |     |
+| 5      | 11:40-12:30 | OOP244 NDD Lab | [Office](https://teams.microsoft.com/l/channel/19%3ac23ff154522047c9bae68171bff16938%40thread.tacv2/General?groupId=cedf698e-3d6d-451a-a5ff-21d5b724cc22&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)         |            | OOP244 NBB |     |
+| 6      | 12:35-13:25 | OOP244 NDD Lab |[Office](https://teams.microsoft.com/l/channel/19%3ac23ff154522047c9bae68171bff16938%40thread.tacv2/General?groupId=cedf698e-3d6d-451a-a5ff-21d5b724cc22&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)         |            |            |     |
+| 7      | 13:30-14:20 |                |                | OOP244 NDD |            |     |
+| 8      | 14:25-15:15 |                |                | OOP244 NDD |            |     |
+| 9      | 15:20-16:10 |                |                |            |            |     |
+| 10     | 16:16-17:05 |                |                |            |            |     |
+| 11     | 17:10-18:00 |                |                |            |            |     |
+| 12     | 18:05-18:55 |                |                |            |            |     |
 
 ## Setting up your computers for OOP244
 
