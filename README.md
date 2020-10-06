@@ -1,7 +1,7 @@
 ﻿# OOP244-NABD-Notes
 ## Active Session
 Join the session as a guest and **use your real Seneca Name** (what is on your student card), otherwise you will be kicked out<br />
-[Join The session -OOP244 NBB Oct 5 - cin, cout and LAB](https://connect.rna2.blindsidenetworks.com/invite/to?c=mM6UItqdNiOnOtNftIcWFEffKbstz7NteKEExtPA5Z8&m=839c746756d8e623bb4d82439687c61b8b32a441&t=1601899793741&u=senecacollege)
+[Join The session -OOP244 NBB Oct 6 - cin, cout and output formatting](https://connect.rna2.blindsidenetworks.com/invite/to?c=YB42iZ5yUbwGGg34AlgznM2e2cAndxO_7PS7sL4mfi4&m=440fa653b18944279ffc80c21eb80572f0438b2d&t=1601987090687&u=senecacollege)
 ## Previous Sessions
 ### NAA
 - [Sep-14 Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1600087944853/capture/)
@@ -9,6 +9,7 @@ Join the session as a guest and **use your real Seneca Name** (what is on your s
 - [Sep-21 LAB](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1600689537024/capture/)
 - [Sep-24 Types, Ref, Overloading, DMA](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1600948017766/capture/)
 - [Sep-28 DMA lab](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1601294475431/capture/)
+- [Oct 1 - Member Functions and Privacy](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1601552871671/capture/)
 
 ### NBB
 - [Sep 15 - Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1600174133417/capture/)
@@ -16,6 +17,7 @@ Join the session as a guest and **use your real Seneca Name** (what is on your s
 - [Sep-22 LAB](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1600778638561/capture/)
 - [Sep-24 , Types Ref, Overloading, DMA](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1600958558768/capture/)
 - [Sep-29 DMA lab](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1601382502691/capture/)
+- [Oct 1 - Member Functions and Privacy](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1601563179577/capture/)
 
 ### NDD
 - [Sep-14 Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1600097934447/capture/)
