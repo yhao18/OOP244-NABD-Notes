@@ -1,7 +1,7 @@
 ﻿# OOP244-NABD-Notes
 ## Active Session
 Join the session as a guest and **use your real Seneca Name** (what is on your student card), otherwise you will be kicked out<br />
-[Join The session -OOP244 NBB Oct 6 - cin, cout and output formatting](https://connect.rna2.blindsidenetworks.com/invite/to?c=YB42iZ5yUbwGGg34AlgznM2e2cAndxO_7PS7sL4mfi4&m=440fa653b18944279ffc80c21eb80572f0438b2d&t=1601987090687&u=senecacollege)
+[Join The session -OOP244 NDD Oct 7 - Construction, Destruction and Current object](https://connect.rna2.blindsidenetworks.com/invite/to?c=rLbF5s-K3JAzAfzDkwpp1FtJlSpvJAJc-o8xYH5JZFI&m=ebea1892aa61c2668145b757a836054a5ac70d69&t=1602091494862&u=senecacollege)
 ## Previous Sessions
 ### NAA
 - [Sep-14 Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1600087944853/capture/)
