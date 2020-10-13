@@ -8,7 +8,7 @@ String& whatever() {
    return globalStr;
 }
 
-double& addToAndImpersonate(double& d) {
+double& add2AndImpersonate(double& d) {
    d += 2.0;
    return d;
 }
@@ -21,9 +21,10 @@ int main() {
                          // a new name for the global "cout" object
    cout << endl;
    name.display() << setw(10) << right << 123 << endl;
-   addToAndImpersonate(value);
+   add2AndImpersonate(value);
    cout << value << endl;
-   addToAndImpersonate(value) += 10;
+   add2AndImpersonate(value) += 10;
    cout << value << endl;
+   
    return 0;
 }
