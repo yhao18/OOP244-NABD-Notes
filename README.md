@@ -11,6 +11,7 @@ Join the session as a guest and **use your real Seneca Name** (what is on your s
 - [Sep-28 DMA lab](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1601294475431/capture/)
 - [Oct 1 - Member Functions and Privacy](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1601552871671/capture/)
 - [Oct 5 - cin, cout and output formatting](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1601899793780/capture/)
+- [Oct 8 -Construction, Destruction, The current object](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1602158489979/capture/)
 
 ### NBB
 - [Sep 15 - Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1600174133417/capture/)
@@ -20,6 +21,8 @@ Join the session as a guest and **use your real Seneca Name** (what is on your s
 - [Sep-29 DMA lab](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1601382502691/capture/)
 - [Oct 1 - Member Functions and Privacy](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1601563179577/capture/)
 - [Oct 6 - cin, cout and output formatting](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1601987090742/capture/)
+- [Oct 8 - Construction, Destruction and Current object](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1602169519901/capture/)
+- [Oct 13 - Lab & Review Construction, Destruction and Current object](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1602592154902/capture/)
 
 ### NDD
 - [Sep-14 Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1600097934447/capture/)
@@ -30,6 +33,7 @@ Join the session as a guest and **use your real Seneca Name** (what is on your s
 - [Sep 30 ,Member Functions and Privacy](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1601486531838/capture/)
 - [Oct 5 - cin, cout and output formatting](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1601911843685/capture/)
 - [Oct 7 - Construction and Destruction & Current Object](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1602091494891/capture/)
+- [Oct 14 - Operator Overloading and Helper fucntions](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1602696010393/capture/)
 
 ## Fardad's Schedule
 | Period | Start-Stop  | Mon            | Tue            | Wed        | Thu        | Fri |
