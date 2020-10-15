@@ -12,6 +12,7 @@ Join the session as a guest and **use your real Seneca Name** (what is on your s
 - [Oct 1 - Member Functions and Privacy](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1601552871671/capture/)
 - [Oct 5 - cin, cout and output formatting](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1601899793780/capture/)
 - [Oct 8 -Construction, Destruction, The current object](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1602158489979/capture/)
+- [Oct 15 -Operator Overloading and Helper Functions](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1602762759511/capture/)
 
 ### NBB
 - [Sep 15 - Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1600174133417/capture/)
