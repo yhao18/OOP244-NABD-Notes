@@ -1,7 +1,7 @@
 ﻿# OOP244-NABD-Notes
 ## Active Session
 Join the session as a guest and **use your real Seneca Name** (what is on your student card), otherwise you will be kicked out<br />
-[Join The session -OOP244 NDD OCT 14 - Operator Overloading and Helper functions](https://connect.rna2.blindsidenetworks.com/invite/to?c=R1O9W8PCjpS4Ib1gN57wObAPLHNU76N-aInwszJYaXo&m=ebea1892aa61c2668145b757a836054a5ac70d69&t=1602696010353&u=senecacollege)
+[Join The session -OOP244 NAA OCT 15 - Operator Overloading and Helper functions](https://connect.rna2.blindsidenetworks.com/invite/to?c=uoD1n7U8tkyD-4l-Pw-07Q0RXEDCKIyCfugrsJ6cqJE&m=839c746756d8e623bb4d82439687c61b8b32a441&t=1602762759471&u=senecacollege)
 ## Previous Sessions
 ### NAA
 - [Sep-14 Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1600087944853/capture/)
