@@ -1,7 +1,7 @@
 ﻿# OOP244-NABD-Notes
 ## Active Session
 Join the session as a guest and **use your real Seneca Name** (what is on your student card), otherwise you will be kicked out<br />
-[Join The session -OOP244 NBB OCT 15 - Operator Overloading and Helper functions](https://connect.rna2.blindsidenetworks.com/invite/to?c=tgKxw-uLolIATizQH3gryNTusDipYlF4iG11GKzgVVA&m=440fa653b18944279ffc80c21eb80572f0438b2d&t=1602772441545&u=senecacollege)
+[OOP244 NDD Oct 19- Helper Operators overloads, Input and output](https://connect.rna2.blindsidenetworks.com/invite/to?c=jWDQCVAdINO52mKHYeTYs5i9o2BqR5pCVVdPscTqesM&m=ebea1892aa61c2668145b757a836054a5ac70d69&t=1603121683032&u=senecacollege)
 ## Previous Sessions
 ### NAA
 - [Sep-14 Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1600087944853/capture/)
@@ -12,6 +12,7 @@ Join the session as a guest and **use your real Seneca Name** (what is on your s
 - [Oct 1 - Member Functions and Privacy](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1601552871671/capture/)
 - [Oct 5 - cin, cout and output formatting](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1601899793780/capture/)
 - [Oct 8 -Construction, Destruction, The current object](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1602158489979/capture/)
+- [Oct 15 -Operator Overloading and Helper Functions](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1602762759511/capture/)
 
 ### NBB
 - [Sep 15 - Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1600174133417/capture/)
