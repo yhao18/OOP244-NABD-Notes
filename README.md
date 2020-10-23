@@ -1,7 +1,7 @@
 ﻿# OOP244-NABD-Notes
 ## Active Session
 You are welcome to join the session as a guest by **using your real Seneca Name** (what is on your student card), otherwise you will be kicked out :) <br />
-[OOP244 NAAOct 22- Classes and Resources and more IO](https://connect.rna2.blindsidenetworks.com/invite/to?c=mj63p0NxyFWTMWOMvDifAfxxnMZ90vXmwmsUWS8eagM&m=839c746756d8e623bb4d82439687c61b8b32a441&t=1603367976297&u=senecacollege)
+[OOP244 NBB Oct 22- Classes and Resources and more IO](https://connect.rna2.blindsidenetworks.com/invite/to?c=ScoQFeC21MON0AN59ziT_5ACrofL_JjONxCsH9kYwZA&m=440fa653b18944279ffc80c21eb80572f0438b2d&t=1603377622424&u=senecacollege)
 ## Previous Sessions
 ### NAA
 - [Sep-14 Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1600087944853/capture/)
