@@ -13,6 +13,8 @@ You are welcome to join the session as a guest by **using your real Seneca Name*
 - [Oct 5 - cin, cout and output formatting](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1601899793780/capture/)
 - [Oct 8 -Construction, Destruction, The current object](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1602158489979/capture/)
 - [Oct 15 -Operator Overloading and Helper Functions](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1602762759511/capture/)
+- [Oct 19 - Helper Operators overloads, Input and output](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1603108937187/capture/)
+- [Oct 22 - Classes with resource and Files](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1603367976346/capture/)
 
 ### NBB
 - [Sep 15 - Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1600174133417/capture/)
@@ -24,6 +26,9 @@ You are welcome to join the session as a guest by **using your real Seneca Name*
 - [Oct 6 - cin, cout and output formatting](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1601987090742/capture/)
 - [Oct 8 - Construction, Destruction and Current object](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1602169519901/capture/)
 - [Oct 13 - Lab & Review Construction, Destruction and Current object](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1602592154902/capture/)
+- [Oct 15 - Operator Overloading and Helper functions] (https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1602772441583/capture/)
+- [Oct 20 - Non-member Operator Overloading and Helper functions] (https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1603197779855/capture/)
+- [Oct 22 - Classes with resource and Files] (https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1603377622460/capture/)
 
 ### NDD
 - [Sep-14 Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1600097934447/capture/)
@@ -35,6 +40,9 @@ You are welcome to join the session as a guest by **using your real Seneca Name*
 - [Oct 5 - cin, cout and output formatting](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1601911843685/capture/)
 - [Oct 7 - Construction and Destruction & Current Object](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1602091494891/capture/)
 - [Oct 14 - Operator Overloading and Helper fucntions](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1602696010393/capture/)
+- [Oct 19 - Helper operator overloads and input and output] (https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1603121683070/capture/)
+- [Oct 21 - Classes and Resources and more IO] (https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1603301127411/capture/)
+
 
 ## Fardad's Schedule
 | Period | Start-Stop  | Mon            | Tue            | Wed        | Thu        | Fri |
