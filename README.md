@@ -1,7 +1,7 @@
 ﻿# OOP244-NABD-Notes
 ## Active Session
 You are welcome to join the session as a guest by **using your real Seneca Name** (what is on your student card), otherwise you will be kicked out :) <br />
-[OOP244 NDD - Derived Classes and Functions in a Hierarchy](https://connect.rna2.blindsidenetworks.com/invite/to?c=mVtS6LsDxw7gFM0TXVN1PjSLbRFQPmX8xgEac3_cGH0&m=ebea1892aa61c2668145b757a836054a5ac70d69&t=1604513647065&u=senecacollege)
+[OOP244 NAA - Derived Classes and Functions in a Hierarchy](https://connect.rna2.blindsidenetworks.com/invite/to?c=LaeG4xTjHOvv89kidix6jjGRMedj0LG2ZaClCloamw4&m=839c746756d8e623bb4d82439687c61b8b32a441&t=1604580787745&u=senecacollege)
 ## Previous Sessions
 ### NAA
 - [Sep-14 Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1600087944853/capture/)
