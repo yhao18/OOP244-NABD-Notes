@@ -1,7 +1,7 @@
 ﻿# OOP244-NABD-Notes
 ## Active Session
 You are welcome to join the session as a guest by **using your real Seneca Name** (what is on your student card), otherwise you will be kicked out :) <br />
-[OOP244 NBB - Virtual Functions, Abstract Base Classes](https://connect.rna2.blindsidenetworks.com/invite/to?c=YK_bVYC3P1pRLjtedh9Nbig7WPDCE6ngfPl39JjileM&m=440fa653b18944279ffc80c21eb80572f0438b2d&t=1605194609213&u=senecacollege)
+[OOP244 NAA - LAB - Virtual Functions, Abstract Base Classes](https://connect.rna2.blindsidenetworks.com/invite/to?c=Q33pPNxpDpkSJNw4xd8a5AkMUrtSrxDHNXLms-XdHso&m=839c746756d8e623bb4d82439687c61b8b32a441&t=1605531072920&u=senecacollege)
 ## Previous Sessions
 ### NAA
 - [Sep-14 Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1600087944853/capture/)
