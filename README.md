@@ -16,6 +16,8 @@ You are welcome to join the session as a guest by **using your real Seneca Name*
 - [Oct 19 - Helper Operators overloads, Input and output](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1603108937187/capture/)
 - [Oct 22 - Classes with resource and Files](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1603367976346/capture/)
 - [Nov 05 - Derived Classes and Functions in Hirearchy](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1604580787787/capture/)
+- [Nov 09 - LAB - Derived Classes and Functions in a Hierarchy] (https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1604926935349/capture/)
+- [Nov 12 Virtual Functions, Abstract Base Classes] (https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1605185748384/capture/)
 ### NBB
 - [Sep 15 - Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1600174133417/capture/)
 - [Sep-17 Week one Namespaces, OO, modules](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1600353332566/capture/)
@@ -30,6 +32,8 @@ You are welcome to join the session as a guest by **using your real Seneca Name*
 - [Oct 20 - Non-member Operator Overloading and Helper functions](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1603197779855/capture/)
 - [Oct 22 - Classes with resource and Files](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1603377622460/capture/)
 - [Nov 05 - Derived Classes and Functions in Hirearchy](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1604591055300/capture/)
+- [Nov 10 - LAB - Derived Classes and Functions in a Hierarchy] (https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1605016087229/capture/)
+- [Nov 12 Virtual Functions, Abstract Base Classes] (https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1605194609275/capture/)
 ### NDD
 - [Sep-14 Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1600097934447/capture/)
 - [Sep-14 Week one OO, modules](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1600276994180/capture/)
@@ -43,6 +47,8 @@ You are welcome to join the session as a guest by **using your real Seneca Name*
 - [Oct 19 - Helper operator overloads and input and output](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1603121683070/capture/)
 - [Oct 21 - Classes and Resources and more IO](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1603301127411/capture/)
 - [Nov 04 - Derived Classes and Functions in Hirearchy](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1604513647107/capture/)
+- [Nov 9 - LAB - Derived Classes and Functions in a Hierarchy] (https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1604939751272/capture/)
+- [Nov 11 Virtual Functions, Abstract Base Classes] (https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1605118897846/capture/)
 
 ## Fardad's Schedule
 | Period | Start-Stop  | Mon            | Tue            | Wed        | Thu        | Fri |
