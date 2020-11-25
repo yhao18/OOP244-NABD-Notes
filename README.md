@@ -1,7 +1,7 @@
 ﻿# OOP244-NABD-Notes
 ## Active Session
 You are welcome to join the session as a guest by **using your real Seneca Name** (what is on your student card), otherwise you will be kicked out :) <br />
-[OOP244 NBB - Constrained Casts, Overview of Polymorphism - LAB - Templates](https://connect.rna2.blindsidenetworks.com/invite/to?c=xfTIsSrD9nNsEnVvybUo5PhYV6nuWSB4KCp7MtKE88Q&m=440fa653b18944279ffc80c21eb80572f0438b2d&t=1606225811283&u=senecacollege)
+[OOP244 NDD - Input and Output Refinements](https://connect.rna2.blindsidenetworks.com/invite/to?c=-Xjdg3itqpwKS8vrBlYLx2D4PxLXF2jYfjiAqoBZHtw&m=ebea1892aa61c2668145b757a836054a5ac70d69&t=1606328486879&u=senecacollege)
 ## Previous Sessions
 ### NAA
 - [Sep-14 Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1600087944853/capture/)
