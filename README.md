@@ -1,7 +1,7 @@
 ﻿# OOP244-NABD-Notes
 ## Active Session
 You are welcome to join the session as a guest by **using your real Seneca Name** (what is on your student card), otherwise you will be kicked out :) <br />
-[OOP244 NBB - Constrained Casts, Overview of Polymorphism - LAB - Templates](https://connect.rna2.blindsidenetworks.com/invite/to?c=xfTIsSrD9nNsEnVvybUo5PhYV6nuWSB4KCp7MtKE88Q&m=440fa653b18944279ffc80c21eb80572f0438b2d&t=1606225811283&u=senecacollege)
+[OOP244 NAA - Input and Output Refinements](https://connect.rna2.blindsidenetworks.com/invite/to?c=-IhnNVkExhoC_5tDZ8beikgJ0kxEUeF5yyBX1s8nPI0&m=839c746756d8e623bb4d82439687c61b8b32a441&t=1606395475653&u=senecacollege)
 ## Previous Sessions
 ### NAA
 - [Sep-14 Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1600087944853/capture/)
@@ -19,6 +19,7 @@ You are welcome to join the session as a guest by **using your real Seneca Name*
 - [Nov 09 - LAB - Derived Classes and Functions in a Hierarchy](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1604926935349/capture/)
 - [Nov 12 - Virtual Functions, Abstract Base Classes](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1605185748384/capture/)
 - [Nov 19 - Templates](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1605788521328/capture/)
+- [Nov 23 - Constrained Casts, Overview of Polymorphism - LAB - Templates](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1606136112634/capture/)
 ### NBB
 - [Sep 15 - Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1600174133417/capture/)
 - [Sep-17 Week one Namespaces, OO, modules](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1600353332566/capture/)
@@ -36,6 +37,7 @@ You are welcome to join the session as a guest by **using your real Seneca Name*
 - [Nov 10 - LAB - Derived Classes and Functions in a Hierarchy](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1605016087229/capture/)
 - [Nov 12 - Virtual Functions, Abstract Base Classes](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1605194609275/capture/)
 - [Nov 19 - Templates](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1605800465253/capture/)
+- [Nov 24 - Constrained cast, overview of polymorphism, LAB Templates](https://recordings.rna2.blindsidenetworks.com/senecacollege/bcebb786131e829872f20a9d7ca78d468daf25e2-1606225811316/capture/)
 ### NDD
 - [Sep-14 Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1600097934447/capture/)
 - [Sep-14 Week one OO, modules](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1600276994180/capture/)
@@ -52,6 +54,7 @@ You are welcome to join the session as a guest by **using your real Seneca Name*
 - [Nov 9 - LAB - Derived Classes and Functions in a Hierarchy](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1604939751272/capture/)
 - [Nov 11 - Virtual Functions, Abstract Base Classes](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1605118897846/capture/)
 - [Nov 18 - Templates, Constrained casts, Overview of polymorphism](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1605724041488/capture/)
+- [Nov 23 - Constrained Casts, Overview of Polymorphism - LAB Templates](https://recordings.rna2.blindsidenetworks.com/senecacollege/6db4339dbee92940db53c0a7c75fbc7e0b4b4486-1606148961340/capture/)
 
 ## Fardad's Schedule
 | Period | Start-Stop  | Mon            | Tue            | Wed        | Thu        | Fri |
