@@ -1,7 +1,7 @@
 ﻿# OOP244-NABD-Notes
 ## Active Session
 You are welcome to join the session as a guest by **using your real Seneca Name** (what is on your student card), otherwise you will be kicked out :) <br />
-[OOP244 NAA - Input and Output Refinements](https://connect.rna2.blindsidenetworks.com/invite/to?c=-IhnNVkExhoC_5tDZ8beikgJ0kxEUeF5yyBX1s8nPI0&m=839c746756d8e623bb4d82439687c61b8b32a441&t=1606395475653&u=senecacollege)
+[OOP244 NBB - Input and Output Refinements](https://connect.rna2.blindsidenetworks.com/invite/to?c=KnMqx76aDUcG7uwwTZirl65FTBP2KX5uonrAg6VXlW0&m=440fa653b18944279ffc80c21eb80572f0438b2d&t=1606405028711&u=senecacollege)
 ## Previous Sessions
 ### NAA
 - [Sep-14 Welcome Session](https://recordings.rna2.blindsidenetworks.com/senecacollege/12baeedf861a7902e89765d88e4aafb6f7b4c761-1600087944853/capture/)
